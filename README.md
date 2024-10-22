@@ -13,6 +13,9 @@
 - Stores candidate details in a database for effective management.
 - User-friendly interface created with Gradio for seamless interaction.
 
+![Screenshot 2024-10-22 190555](https://github.com/user-attachments/assets/8dab5b7c-1288-486c-ba26-471a2c39fc21)
+
+
 ## Features
 
 - **Resume Evaluation**: Compares resumes with job descriptions to calculate a matching score based on extracted skills, experience, and job titles.
