@@ -1,0 +1,8 @@
+Here is the extracted information:
+
+* Company Name: Google LLC
+* Email: johndoe@google.com
+* Phone Number: (555) 555-5555
+* Job Title: Machine Learning Engineer, Software Development, Engineering
+* Required Skills: Python, TensorFlow, Keras, PyTorch, Hadoop, Spark, Excellent problem-solving skills, Ability to work in a fast-paced environment
+* Years of Experience required: 3

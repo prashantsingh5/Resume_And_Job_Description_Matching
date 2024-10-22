@@ -1,0 +1,10 @@
+Here is the extracted information:
+
+* Name: Not explicitly stated on the resume, but can be inferred as "First Last" or a similar combination of names.
+* Email: professionalemail@resumewor ded.com
+* Phone Number: +1-234-456-789
+* List of Job Titles (comma-separated): Machine Learning Engineer, Automation Engineer, Computer Systems Analyst
+* List of Skills (comma-separated): Deep Learning (Advanced), Predictive Modeling (Experienced), Statistical Analysis, Algorithms, React/Redux, NodeJS, Python, TensorFlow LSTM networks, OpenCV, SIFT, HOG, German (Fluent), French (Conversational)
+* Years of Experience: 10
+
+Note that the education section is not considered as part of the "Years of Experience" count, only professional job or internship experience is included.
