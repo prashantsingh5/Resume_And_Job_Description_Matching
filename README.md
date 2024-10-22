@@ -60,11 +60,11 @@ To set up the project on your local machine, follow these steps:
 
 Make sure to change them :
 
-1. host = <Your host>
+1. host = "<Your host>"
   
-2. user = <Your Username>
+2. user = "<Your Username>"
    
-3. password = <Your Password>
+3. password = "<Your Password>"
 
 
 ## Contact
