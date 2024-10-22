@@ -2,7 +2,16 @@
 
 ## Overview
 
-The Resume Analyzer is a machine learning-based tool that evaluates resumes against job descriptions (JDs). By comparing skills, experience, and job titles, it provides a score that reflects how well a resume matches a given job description. The project is integrated with a database to store relevant candidate details, making it easy to track and analyze applicant data.
+- The Resume Analyzer is an innovative application designed to streamline the hiring process by evaluating resumes against job descriptions. This project leverages the powerful **LLaMA3** model for advanced text extraction and analysis, enabling the identification of key skills, experience, and job titles from resumes. Additionally, regular expressions (regex) are utilized to enhance data parsing and extraction, ensuring accuracy and efficiency in capturing relevant information.
+
+- The application provides a scoring mechanism that compares extracted resume data with the requirements specified in job descriptions, allowing recruiters to quickly assess candidate suitability. The results, including the candidate's name, mobile number, email, extracted skills, and calculated score, are stored in a database for easy retrieval and management.
+
+- An interactive front-end powered by **Gradio** allows users to upload resumes and job descriptions, making it user-friendly and accessible for both job seekers and recruiters.
+
+- Extracts key information from resumes using LLaMA3 and regex.
+- Compares resumes against job descriptions to generate a suitability score.
+- Stores candidate details in a database for effective management.
+- User-friendly interface created with Gradio for seamless interaction.
 
 ## Features
 
